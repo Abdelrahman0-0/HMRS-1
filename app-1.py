@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-import HMRS_1 as recommender
+import HMRS_12 as recommender
 
 
 st.set_page_config(
