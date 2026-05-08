@@ -6,3 +6,4 @@ scipy>=1.15.0
 pillow>=11.1.0
 joblib>=1.4.2
 plotly>=5.24.0
+lightfm
